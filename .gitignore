@@ -1,0 +1,23 @@
+# Ignorar executáveis gerados
+ex01
+desafio
+
+# Ignorar qualquer executável comum
+*.out
+*.exe
+
+# Arquivos de compilação
+*.o
+
+# Ignorar tudo que não é código fonte ou docs
+*.out
+*.exe
+*.o
+a.out
+
+# Ignorar binários sem extensão (caso comum em C)
+*
+!*.c
+!*.h
+!README.md
+!*.md
