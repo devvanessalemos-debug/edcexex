@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-// 📦 Definição da estrutura Territorio
+//  Definição da estrutura Territorio
 // A struct funciona como um "modelo" que agrupa dados relacionados
 // Aqui estamos criando um tipo que representa um território no jogo war
 struct Territorio {
