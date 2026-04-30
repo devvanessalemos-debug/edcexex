@@ -17,6 +17,7 @@ a.out
 
 # Ignorar binários sem extensão (caso comum em C)
 *
+!*/
 !*.c
 !*.h
 !README.md
